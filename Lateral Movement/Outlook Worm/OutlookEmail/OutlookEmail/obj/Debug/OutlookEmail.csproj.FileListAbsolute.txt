@@ -1,0 +1,7 @@
+C:\Users\Danie\Desktop\Development\OutlookWorm\OutlookEmail\OutlookEmail\obj\Debug\OutlookEmail.csprojAssemblyReference.cache
+C:\Users\Danie\Desktop\Development\OutlookWorm\OutlookEmail\OutlookEmail\obj\Debug\OutlookEmail.csproj.CoreCompileInputs.cache
+C:\Users\Danie\Desktop\Development\OutlookWorm\OutlookEmail\OutlookEmail\bin\Debug\OutlookEmail.exe.config
+C:\Users\Danie\Desktop\Development\OutlookWorm\OutlookEmail\OutlookEmail\bin\Debug\OutlookEmail.exe
+C:\Users\Danie\Desktop\Development\OutlookWorm\OutlookEmail\OutlookEmail\bin\Debug\OutlookEmail.pdb
+C:\Users\Danie\Desktop\Development\OutlookWorm\OutlookEmail\OutlookEmail\obj\Debug\OutlookEmail.exe
+C:\Users\Danie\Desktop\Development\OutlookWorm\OutlookEmail\OutlookEmail\obj\Debug\OutlookEmail.pdb
